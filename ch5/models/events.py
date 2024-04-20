@@ -15,7 +15,7 @@ class Event(BaseModel):
             "example": {
                 "title": "FashAPI Book Launch",
                 "image": "https://linktomyimage.com/image.png",
-                "desc": "We will your own copy to win gifts!",
+                "desc": "We will your own copy to win gifts!", 
                 "tags": ["python", "fastapi", "book", "launch"],
                 "location": "Google Meet"
             }
